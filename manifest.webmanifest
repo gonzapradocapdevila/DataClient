@@ -1,0 +1,29 @@
+{
+  "name": "Fichas de vacante · Gambito",
+  "short_name": "Fichas",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08072A",
+  "theme_color": "#08072A",
+  "lang": "es",
+  "description": "Fichas de vacantes de Gambito, guardadas en SharePoint.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
